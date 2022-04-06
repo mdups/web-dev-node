@@ -1,1 +1,1 @@
-web: node my-node-project/server.js
+web: node web-dev-node/my-node-project/server.js
