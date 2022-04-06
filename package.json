@@ -18,5 +18,6 @@
   "homepage": "https://github.com/mdups/web-dev-node#readme",
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "devDependencies": {}
 }
